@@ -144,9 +144,10 @@ https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/harun_vater_hotel
 
 # 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=go-imran&show_icons=true&theme=react" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-imran&layout=compact&theme=react" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=go-imran&theme=react&show_icons=true&hide_border=false&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-imran&theme=react&layout=compact&hide_border=false" height="180"/>
 </p>
+
 
 ---
 
