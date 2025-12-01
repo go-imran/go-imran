@@ -67,7 +67,7 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 - Created 4 final HR reports (Recruitment, Employee, Training, Engagement)
 
 🔗 GitHub:  
-[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/HR%20ANALYTICS)
+[View Repository](https://github.com/go-imran/SQL)
 
 ---
 
@@ -77,7 +77,7 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 - Identified monthly retention patterns  
 
 🔗 GitHub:  
-[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Cohort%20retention%20analysis)
+[View Repository](https://github.com/go-imran/SQL)
 
 ---
 
@@ -87,7 +87,7 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 - Business reporting on sales & revenue  
 
 🔗 GitHub:  
-[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/SQL-DataWarehouse-Project)
+[View Repository](https://github.com/go-imran/SQL)
 
 ---
 
@@ -99,7 +99,7 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 - Cancellation & lead-time analysis  
 
 🔗 GitHub:  
-[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Hospitality%20management)
+[View Repository](https://github.com/go-imran/SQL)
 
 ---
 
@@ -109,7 +109,7 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 - Peak seasons & order patterns  
 
 🔗 GitHub:  
-[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Pizza%20Sales)
+[View Repository](https://github.com/go-imran/SQL)
 
 ---
 
@@ -121,7 +121,7 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 - Employee trends, churn patterns, department insights  
 
 🔗 GitHub:  
-[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/HR%20ANALYTICS/Exploratory%20Data%20Analysis)
+[View Repository](https://github.com/go-imran/Python)
 
 ---
 
@@ -132,16 +132,39 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 - KPIs: revenue, occupancy, booking trends  
 
 🔗 GitHub:  
-[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/harun_vater_hotel)
+[View Repository](https://github.com/go-imran/Excel)
 
 ---
 
 # 🛠️ Tech Stack & Tools  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,powershell,html,css,github,vscode,figma,excel,gcp" height="50" />
-<br>
-<img src="https://skillicons.dev/icons?i=py,anaconda,ps,sklearn" height="50" />
+
+  <!-- Original skillicons line -->
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,powershell,html,css,github,vscode,figma,gcp" height="50" />
+
+  <!-- Excel -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="50"/>
+
+  <!-- PySpark (Apache) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50"/>
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
+
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
+
+  <!-- Scikit-Learn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
+
 </p>
+
 
 ---
 
