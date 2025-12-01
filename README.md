@@ -175,11 +175,6 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 </p>-->
 
 
-
-
-
----
-
 # 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/go-imran/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
