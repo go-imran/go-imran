@@ -44,7 +44,7 @@ Includes:
 - Revenue & Order trends  
 
 🔗 **Live Report:**  
-https://app.powerbi.com/view?r=eyJrIjoiMzc3OGZhODctNGUzNS00YjRlLTljNzMtZjI5YWFhNDUwMDExIiwidCI6IjYyMzUxZTMzLTA1YjktNDI0NS1hYzAwLTBhNzMwMzg4NDFlYiIsImMiOjEwfQ%3D%3D
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiMzc3OGZhODctNGUzNS00YjRlLTljNzMtZjI5YWFhNDUwMDExIiwidCI6IjYyMzUxZTMzLTA1YjktNDI0NS1hYzAwLTBhNzMwMzg4NDFlYiIsImMiOjEwfQ%3D%3D)
 
 ---
 
@@ -65,7 +65,7 @@ A healthcare analytics dashboard providing insights into patient demographics, a
 - Created 4 final HR reports (Recruitment, Employee, Training, Engagement)
 
 🔗 GitHub:  
-https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/HR%20ANALYTICS
+[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/HR%20ANALYTICS)
 
 ---
 
@@ -75,7 +75,7 @@ https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/HR%20ANALYTICS
 - Identified monthly retention patterns  
 
 🔗 GitHub:  
-https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Cohort%20retention%20analysis
+[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Cohort%20retention%20analysis)
 
 ---
 
@@ -85,7 +85,7 @@ https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Coh
 - Business reporting on sales & revenue  
 
 🔗 GitHub:  
-https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/SQL-DataWarehouse-Project
+[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/SQL-DataWarehouse-Project)
 
 ---
 
@@ -97,7 +97,7 @@ https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/SQL
 - Cancellation & lead-time analysis  
 
 🔗 GitHub:  
-https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Hospitality%20management
+[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Hospitality%20management)
 
 ---
 
@@ -107,7 +107,7 @@ https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Hos
 - Peak seasons & order patterns  
 
 🔗 GitHub:  
-https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Pizza%20Sales
+[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Pizza%20Sales)
 
 ---
 
@@ -119,7 +119,7 @@ https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/SQL%20Project/Piz
 - Employee trends, churn patterns, department insights  
 
 🔗 GitHub:  
-https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/HR%20ANALYTICS/Exploratory%20Data%20Analysis
+[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/HR%20ANALYTICS/Exploratory%20Data%20Analysis)
 
 ---
 
@@ -130,7 +130,7 @@ https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/HR%20ANALYTICS/Ex
 - KPIs: revenue, occupancy, booking trends  
 
 🔗 GitHub:  
-https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/harun_vater_hotel
+[View Project](https://github.com/go-imran/Data-Analytics-Portfolio/tree/main/harun_vater_hotel)
 
 ---
 
