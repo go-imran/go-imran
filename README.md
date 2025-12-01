@@ -1,3 +1,5 @@
+<!-- Dark Background Wrapper -->
+<div style="background-color: #0d1117; color: #e6edf3; padding: 25px; border-radius: 12px;">
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/go-imran/go-imran/blob/main/—Pngtree—digital%20dashboard%20displaying%20financial%20data_19046569.jpg?raw=true" alt="Banner" />
