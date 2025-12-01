@@ -53,7 +53,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMzc3OGZhODctNGUzNS00YjRlLTljNzMtZjI5YWFhN
 A healthcare analytics dashboard providing insights into patient demographics, admission trends, billing performance, and operational efficiency.  
 
 🔗 **Live Report:**  
-https://app.powerbi.com/view?r=eyJrIjoiNzgyOWZhYzctNzY0MC00NzI0LWFmNzMtYzc0ZjhmOGJhZTVhIiwidCI6IjYyMzUxZTMzLTA1YjktNDI0NS1hYzAwLTBhNzMwMzg4NDFlYiIsImMiOjEwfQ%3D%3D
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiNzgyOWZhYzctNzY0MC00NzI0LWFmNzMtYzc0ZjhmOGJhZTVhIiwidCI6IjYyMzUxZTMzLTA1YjktNDI0NS1hYzAwLTBhNzMwMzg4NDFlYiIsImMiOjEwfQ%3D%3D)
 
 ---
 
