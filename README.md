@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/go-imran/go-imran/assets/banner.png" alt="Banner" />
+  <img src="https://github.com/go-imran/go-imran/blob/main/—Pngtree—digital%20dashboard%20displaying%20financial%20data_19046569.jpg?raw=true" alt="Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Md. Imran</h1>
 <h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
