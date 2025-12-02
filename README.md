@@ -33,6 +33,14 @@ Currently exploring **Data Engineering**, **PySpark**, and advanced analysis tec
 # 🚀 Featured Projects
 
 ---
+# 🧠 Hacker Rank Problem Solving
+
+- Started SQL challenges
+- Currently solving for Bronze level 
+- Target to collect the Master level Badge
+
+🔗 GitHub:  
+[View Repository](https://github.com/go-imran/Hacker-Rank-Problem-solving)
 
 ## 🎨 **Power BI Projects**
 
