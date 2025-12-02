@@ -23,7 +23,7 @@ Currently exploring **Data Engineering**, **PySpark**, and advanced analysis tec
 
 ## 🔭 What I'm Working On  
 - 🧩 **HackerRank problem solving**  
-- ⚽ **Kaggle Football dataset exploration**  
+- ⚽ **Customer lifetime values calculation with python**  
 - 🔍 **Searching for strong research ideas**  
 - 🚀 **Learning PySpark & Data Engineering (Advance Level)**  
 - 📊 **Building end-to-end analytics projects**
