@@ -38,6 +38,9 @@ Currently exploring **Data Engineering**, **PySpark**, and advanced analysis tec
 - Started SQL challenges
 - Currently solving for Bronze level 
 - Target to collect the Master level Badge
+  
+🔗 Hacker Rank Profile:
+ [View Profile](https://www.hackerrank.com/profile/imran_official_1)
 
 🔗 GitHub:  
 [View Repository](https://github.com/go-imran/Hacker-Rank-Problem-solving)
