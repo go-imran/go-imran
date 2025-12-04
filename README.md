@@ -33,11 +33,11 @@ Currently exploring **Data Engineering**, **PySpark**, and advanced analysis tec
 # 🚀 Featured Projects
 
 ---
-# 🧠 Hacker Rank Problem Solving
+# 🧠 Hacker Rank & other Problem Solving
 
 - Started SQL challenges
-- Currently solving for Bronze level 
-- Target to collect the Master level Badge
+- Reached at GOLD level 
+- Target to solve any SQL problem
   
 🔗 Hacker Rank Profile:
  [View Profile](https://www.hackerrank.com/profile/imran_official_1)
