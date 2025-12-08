@@ -33,6 +33,15 @@ Currently exploring **Data Engineering**, **PySpark**, and advanced analysis tec
 # 🚀 Featured Projects
 
 ---
+# 💰 Customer Lifetime Value Analysis
+**Goal:** Understand customer value over time to make better business decisions.
+
+- Finished with Data cleansing
+- Going to start EDA
+
+🔗 GitHub:  
+[View Repository](https://github.com/go-imran/Python/tree/main/Customer%20lifetime%20value%20analysis)
+
 # 🧠 Hacker Rank & other Problem Solving
 
 - Started SQL challenges
